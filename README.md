@@ -13,5 +13,5 @@ The functionalities that METHA aggregates, are:
 - Permissioning (Component E): API authentication, key access roles, information visibility etc
 
 
-Metha is open source under Apache 2 license. Oxiles provides extra enterprise functionalities on demand,SAAS deploymen and enterprise support.
+Metha is open source under Apache 2 license. Oxiles provides extra enterprise functionalities on demand, SAAS deployment and enterprise support.
 
